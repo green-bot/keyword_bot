@@ -9,8 +9,48 @@
       "name": "KEYWORD_1",
       "value": "hours: We are open from 9-5",
       "type": "text"
-    }
-  ],
+    },
+     {
+      "name": "KEYWORD_2",
+      "value": "hours: We are open from 9-5",
+      "type": "text"
+    },
+     {
+      "name": "KEYWORD_3",
+      "value": "hours: We are open from 9-5",
+      "type": "text"
+    },
+     {
+      "name": "KEYWORD_4",
+      "value": "hours: We are open from 9-5",
+      "type": "text"
+    },
+     {
+      "name": "KEYWORD_5",
+      "value": "hours: We are open from 9-5",
+      "type": "text"
+    },
+     {
+      "name": "KEYWORD_6",
+      "value": "hours: We are open from 9-5",
+      "type": "text"
+    },
+     {
+      "name": "KEYWORD_7",
+      "value": "hours: We are open from 9-5",
+      "type": "text"
+    },
+      {
+      "name": "KEYWORD_8",
+      "value": "hours: We are open from 9-5",
+      "type": "text"
+    },
+      {
+      "name": "KEYWORD_9",
+      "value": "hours: We are open from 9-5",
+      "type": "text"
+    },
+   ],
   "desc": "This is a keyword demo bot",
   "icon_class": "announcement",
   "name": "keyword",
