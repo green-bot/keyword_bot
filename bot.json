@@ -1,11 +1,6 @@
 [{
   "default_settings": [
     {
-      "name": "PROMPT_1",
-      "value": "Thanks for texting the keyword bot.How can I help?",
-      "type": "text"
-    },
-    {
       "name": "KEYWORD_1",
       "value": "hours: We are open from 9-5",
       "type": "text"
