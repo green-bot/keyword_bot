@@ -49,7 +49,7 @@
       "name": "KEYWORD_9",
       "value": "hours: We are open from 9-5",
       "type": "text"
-    },
+    }
    ],
   "desc": "This is a keyword demo bot",
   "icon_class": "announcement",
