@@ -1,6 +1,6 @@
 {
   "name": "keyword_bot",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A bot that takes keywords from a user, spits something out.",
   "main": "keyword_bot.rb",
   "scripts": {
