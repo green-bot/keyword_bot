@@ -3,7 +3,7 @@ def keyword(str)
   return keyword
 end
 
-initialMsg = ENV['INITIAL_MSG'].strip
+initialMsg = ENV['INITIAL_MSG'].strip.downcase
 
 prompts = []
 prompts <<  ENV['KEYWORD_1']
