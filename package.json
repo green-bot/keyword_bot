@@ -1,0 +1,25 @@
+{
+  "name": "keyword_bot",
+  "version": "0.1.1",
+  "description": "A bot that takes keywords from a user, spits something out.",
+  "main": "keyword_bot.rb",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ruby keyword_bot.rb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/green-bot/keyword_bot.git"
+  },
+  "keywords": [
+    "greenbot",
+    "bashbot",
+    "bot"
+  ],
+  "author": "ghostofbasho@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/green-bot/keyword_bot/issues"
+  },
+  "homepage": "https://github.com/green-bot/keyword_bot#readme"
+}

@@ -1,0 +1,20 @@
+[{
+  "default_settings": [
+    {
+      "name": "PROMPT_1",
+      "value": "Thanks for texting the keyword bot.How can I help?",
+      "type": "text"
+    },
+    {
+      "name": "KEYWORD_1",
+      "value": "hours: We are open from 9-5",
+      "type": "text"
+    }
+  ],
+  "desc": "This is a keyword demo bot",
+  "icon_class": "announcement",
+  "name": "keyword",
+  "owner_cmd": "",
+  "short_desc": "This is a keyword demo bot",
+  "repo_link": "https://github.com/green-bot/keyword_bot.git"
+}]
